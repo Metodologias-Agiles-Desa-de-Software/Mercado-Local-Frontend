@@ -1,4 +1,4 @@
-Manual de Instalación: Pasos para Ejecutar la Aplicación Frontend 🚀
+Manual de Instalación: Pasos para Ejecutar la Aplicación Frontend 
 
 1. Dependencias (Prerrequisitos)
 Antes de comenzar, asegúrate de tener instalado el siguiente software en tu sistema:
