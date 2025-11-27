@@ -1,0 +1,19 @@
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gray-50 text-gray-900;
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@layer base {
+    button, a {
+        @apply transition-all duration-200 ease-in-out;
+    }
+}
